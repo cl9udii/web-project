@@ -5,21 +5,18 @@ video {
 }
 
 body {
-	background-color: #d2c5ff;
+	background-color: #e7c8ff;
 	/* color: #ffffff; */
 }
 
 p {
-	color: #ffffff;
+	color: #000000;
 }
 h1{
   font-size: 3rem;
 }
 
 body{
-  font-family: Arial, sans-serif;
-}
+  font-family: "Times New Roman", Times, serif;
 
-h1, h2, h3, h4, h5, h6{
-  font-family: "Raleway", serif;
 }
